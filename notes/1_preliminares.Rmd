@@ -1,0 +1,12 @@
+---
+title: "Preliminares del curso"
+author: "Joan Claverol - Data mentor"
+date: "02/10/2019"
+output: 
+  html_document:
+    toc: TRUE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
